@@ -1,6 +1,6 @@
 # Recipes - React
 
-Welcome to the Recetas de Comida (Food Recipes) page! This project uses React and the Spoonacular API to display a variety of delicious food recipes.
+Welcome to the Food Recipes page! This project uses React and the Spoonacular API to display a variety of delicious food recipes.
 
 ## Demo
 
