@@ -1,35 +1,33 @@
-# Recipes - React
+# My Personal Portfolio - React
 
-Welcome to the Food Recipes page! This project uses React and the Spoonacular API to display a variety of delicious food recipes.
+Welcome to my personal portfolio! This repository contains the source code of my personal website, developed using React, where I showcase information about myself, my projects, and skills as a frontend developer.
 
 ## Demo
 
-You can see the Recetas de Comida page in action [here](https://recipes-app-davechbga.netlify.app).
+You can see a live demo of my portfolio [here](https://portfolio-davechbga.netlify.app/).
+
+## Description
+
+On this website, I present my profile as a frontend developer and computer engineering student from Ecuador. I display information about my academic background, work experience, and notable projects. Additionally, you can find my contact information and links to my social media profiles.
 
 ## Technologies
 
 - React
-- Spoonacular API
-- Styled Components
+- HTML
+- CSS
+- JavaScript
 
 ## Installation
 
 1. Clone this repository on your local machine using `git clone`.
-2. Navigate to the project directory: `cd recetas-de-comida`.
+2. Navigate to the project directory: `cd my-portfolio`.
 3. Install the dependencies using the npm package manager: `npm install`.
 
 ## Usage
 
-1. Get an API key from [Spoonacular](https://spoonacular.com/food-api) and replace `YOUR_API_KEY` in the `src/config.js` file.
-2. Run the application in your local development environment using: `npm start`.
-3. Open your browser and visit `http://localhost:3000` to view the Recetas de Comida page.
-
-## Features
-
-- Search recipes by name or ingredients.
-- View details of a specific recipe.
-- Filter recipes by cuisine type, diet, or food intolerances.
+1. Run the application in your local development environment using: `npm start`.
+2. Open your browser and visit `http://localhost:3000` to view the website.
 
 ## Contact
 
-If you have any questions or suggestions, feel free to contact me at [davechbga@gmail.com](mailto:davechbga@gmail.com) or through my GitHub profile. Enjoy exploring the delicious recipes!
+If you wish to contact me, you can do so via my email: [davechbga@gmail.com](mailto:davechbga@gmail.com) or through my GitHub profile. Looking forward to hearing from you soon!
