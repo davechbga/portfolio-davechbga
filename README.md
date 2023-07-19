@@ -1,45 +1,35 @@
-<!DOCTYPE html>
-<html>
+# Recetas de Comida - React
 
-<head>
-    <meta charset="UTF-8">
-</head>
+Welcome to the Recetas de Comida (Food Recipes) page! This project uses React and the Spoonacular API to display a variety of delicious food recipes.
 
-<body>
-    <h1>My Personal Portfolio - React</h1>
-    <p>Welcome to my personal portfolio! This repository contains the source code of my personal website, developed using
-        React, where I showcase information about myself, my projects, and my skills as a frontend developer.</p>
+## Demo
 
-  <h2>Demo</h2>
-    <p>You can see a live demo of my portfolio <a href="https://portfolio-davechbga.netlify.app/">here</a>.</p>
+You can see the Recetas de Comida page in action [here](https://recipes-app-davechbga.netlify.app).
 
-  <h2>Screenshots</h2>
-    <p><i>Insert screenshots of your website here.</i></p>
+## Technologies
 
-  <h2>Technologies</h2>
-    <ul>
-        <li>React</li>
-        <li>HTML</li>
-        <li>CSS</li>
-        <li>JavaScript</li>
-    </ul>
+- React
+- Spoonacular API
+- Styled Components
 
-  <h2>Installation</h2>
-    <ol>
-        <li>Clone this repository on your local machine using <code>git clone</code>.</li>
-        <li>Navigate to the project directory: <code>cd my-portfolio</code>.</li>
-        <li>Install the dependencies using the npm package manager: <code>npm install</code>.</li>
-    </ol>
+## Installation
 
-  <h2>Usage</h2>
-    <ol>
-        <li>Run the application on your local development environment using: <code>npm run dev</code>.</li>
-        <li>Open your browser and go to <code>http://localhost:3000</code> to see the website.</li>
-    </ol>
+1. Clone this repository on your local machine using `git clone`.
+2. Navigate to the project directory: `cd recetas-de-comida`.
+3. Install the dependencies using the npm package manager: `npm install`.
 
-  <h2>Contact</h2>
-    <p>If you wish to contact me, you can do so via my email: <a href="davechbga@gmail.com">davechbga@gmail.com</a> or
-        through my GitHub profile. Looking forward to hearing from you soon!</p>
-</body>
+## Usage
 
-</html>
+1. Get an API key from [Spoonacular](https://spoonacular.com/food-api) and replace `YOUR_API_KEY` in the `src/config.js` file.
+2. Run the application in your local development environment using: `npm start`.
+3. Open your browser and visit `http://localhost:3000` to view the Recetas de Comida page.
+
+## Features
+
+- Search recipes by name or ingredients.
+- View details of a specific recipe.
+- Filter recipes by cuisine type, diet, or food intolerances.
+
+## Contact
+
+If you have any questions or suggestions, feel free to contact me at [davechbga@gmail.com](mailto:davechbga@gmail.com) or through my GitHub profile. Enjoy exploring the delicious recipes!
